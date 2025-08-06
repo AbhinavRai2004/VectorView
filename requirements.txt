@@ -7,3 +7,4 @@ langchain-google-genai
 langchain-huggingface
 sentence-transformers
 youtube-transcript-api
+faiss-cpu
