@@ -1,10 +1,10 @@
-# VidWhiz 🎥🤖
+# VectorView 🎥🤖
 
 <div align="center">
 
 Chat with any YouTube video using the power of Gemini AI.
 
-VidWhiz is an interactive chatbot that extracts transcripts from YouTube videos, processes them using LangChain and Google's Gemini AI, and generates accurate, context-aware responses. Built with a clean Streamlit UI, it provides an intuitive way to query video content using natural language.
+VectorView is an interactive chatbot that extracts transcripts from YouTube videos, processes them using LangChain and Google's Gemini AI, and generates accurate, context-aware responses. Built with a clean Streamlit UI, it provides an intuitive way to query video content using natural language.
 
 </div>
 
@@ -68,7 +68,7 @@ Follow these steps to set up and run the project locally.
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/AbhinavRai2004/VidWhiz.git
+git clone https://github.com/AbhinavRai2004/VectorView.git
 cd VidWhiz
 ```
 
